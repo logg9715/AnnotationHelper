@@ -46,7 +46,7 @@ public class Gui extends JFrame {
 		this.createElements();
 
 		// ****************************************************** START 화면설정 ******************************************************
-		setSize(800, 800);
+		setSize(600, 600);
 		setLocationRelativeTo(null);
 		setVisible(true);
 		// END 화면설정
